@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• Passionate about creating solutions with python 🐍<br>• I spend my free time learning about new technologies 🧑🏻‍💻<br>• Excited to connect with devs and build cool stuff together 🤝<br>• Loves coffe ☕</p>
+<p align="left">• Passionate about creating solutions with python 🐍<br>• I spend my free time learning about new technologies 🧑🏻‍💻<br>• Excited to connect with devs and build cool stuff together 🤝<br>• Loves coffee ☕</p>
 
 ###
 
