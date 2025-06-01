@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• Currently studying Systems Analysis and Development 🎓<br>• Passionate about creating solutions through codes 👨‍💻<br>• I spend my free time learning about new technologies 🧑🏻‍💻<br>• Excited to connect with devs and build cool stuff together 🤝<br>• Loves coffee ☕</p>
+<p align="left">• Currently studying Systems Analysis and Development 🎓<br>• Passionate about creating solutions through codes 🖥️<br>• I spend my free time learning about new technologies 🧑🏻‍💻<br>• Excited to connect with devs and build cool stuff together 🤝<br>• Loves coffee ☕</p>
 
 ###
 
